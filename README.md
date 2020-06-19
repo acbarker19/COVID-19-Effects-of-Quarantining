@@ -1,7 +1,7 @@
 # How the Spread of COVID-19 Has Been Lowered by Quarantining
 A report by Alec Barker on how quarantining and other protective measures have slowed the spread of COVID-19.
 
-This project was created for PHY 299: Scientific Modelling & Data Analysis that was taught by Dr. Colin Campbell at the University of Mount Union.
+This project was created for PHY 299: Scientific Modeling & Data Analysis that was taught by Dr. Colin Campbell at the University of Mount Union.
 
 ## Features
 Running the provided code will produce four graphs:
